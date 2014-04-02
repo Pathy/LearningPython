@@ -1,7 +1,9 @@
 This is just a repository to keep the files used when learning Python (and git). Nothing exciting at all.
 
 
-By http://twitter.com/Chronoo 
+By:
 
-   http://pathy.se
+http://twitter.com/Chronoo 
+
+http://pathy.se
    
